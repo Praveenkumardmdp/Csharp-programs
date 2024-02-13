@@ -1,0 +1,15 @@
+E:\Csharp\Properties\ReadonlyProperties\bin\Debug\net6.0\ReadonlyProperties.exe
+E:\Csharp\Properties\ReadonlyProperties\bin\Debug\net6.0\ReadonlyProperties.deps.json
+E:\Csharp\Properties\ReadonlyProperties\bin\Debug\net6.0\ReadonlyProperties.runtimeconfig.json
+E:\Csharp\Properties\ReadonlyProperties\bin\Debug\net6.0\ReadonlyProperties.dll
+E:\Csharp\Properties\ReadonlyProperties\bin\Debug\net6.0\ReadonlyProperties.pdb
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\ReadonlyProperties.csproj.AssemblyReference.cache
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\ReadonlyProperties.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\ReadonlyProperties.AssemblyInfoInputs.cache
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\ReadonlyProperties.AssemblyInfo.cs
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\ReadonlyProperties.csproj.CoreCompileInputs.cache
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\ReadonlyProperties.dll
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\refint\ReadonlyProperties.dll
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\ReadonlyProperties.pdb
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\ReadonlyProperties.genruntimeconfig.cache
+E:\Csharp\Properties\ReadonlyProperties\obj\Debug\net6.0\ref\ReadonlyProperties.dll

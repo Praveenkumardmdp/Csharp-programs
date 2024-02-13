@@ -1,0 +1,15 @@
+E:\Csharp\Readonly\bin\Debug\net6.0\Readonly.exe
+E:\Csharp\Readonly\bin\Debug\net6.0\Readonly.deps.json
+E:\Csharp\Readonly\bin\Debug\net6.0\Readonly.runtimeconfig.json
+E:\Csharp\Readonly\bin\Debug\net6.0\Readonly.dll
+E:\Csharp\Readonly\bin\Debug\net6.0\Readonly.pdb
+E:\Csharp\Readonly\obj\Debug\net6.0\Readonly.csproj.AssemblyReference.cache
+E:\Csharp\Readonly\obj\Debug\net6.0\Readonly.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Readonly\obj\Debug\net6.0\Readonly.AssemblyInfoInputs.cache
+E:\Csharp\Readonly\obj\Debug\net6.0\Readonly.AssemblyInfo.cs
+E:\Csharp\Readonly\obj\Debug\net6.0\Readonly.csproj.CoreCompileInputs.cache
+E:\Csharp\Readonly\obj\Debug\net6.0\Readonly.dll
+E:\Csharp\Readonly\obj\Debug\net6.0\refint\Readonly.dll
+E:\Csharp\Readonly\obj\Debug\net6.0\Readonly.pdb
+E:\Csharp\Readonly\obj\Debug\net6.0\Readonly.genruntimeconfig.cache
+E:\Csharp\Readonly\obj\Debug\net6.0\ref\Readonly.dll

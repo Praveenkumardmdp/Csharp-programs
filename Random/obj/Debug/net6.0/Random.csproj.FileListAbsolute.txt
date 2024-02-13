@@ -1,0 +1,15 @@
+E:\Csharp\Random\bin\Debug\net6.0\Random.exe
+E:\Csharp\Random\bin\Debug\net6.0\Random.deps.json
+E:\Csharp\Random\bin\Debug\net6.0\Random.runtimeconfig.json
+E:\Csharp\Random\bin\Debug\net6.0\Random.dll
+E:\Csharp\Random\bin\Debug\net6.0\Random.pdb
+E:\Csharp\Random\obj\Debug\net6.0\Random.csproj.AssemblyReference.cache
+E:\Csharp\Random\obj\Debug\net6.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Random\obj\Debug\net6.0\Random.AssemblyInfoInputs.cache
+E:\Csharp\Random\obj\Debug\net6.0\Random.AssemblyInfo.cs
+E:\Csharp\Random\obj\Debug\net6.0\Random.csproj.CoreCompileInputs.cache
+E:\Csharp\Random\obj\Debug\net6.0\Random.dll
+E:\Csharp\Random\obj\Debug\net6.0\refint\Random.dll
+E:\Csharp\Random\obj\Debug\net6.0\Random.pdb
+E:\Csharp\Random\obj\Debug\net6.0\Random.genruntimeconfig.cache
+E:\Csharp\Random\obj\Debug\net6.0\ref\Random.dll

@@ -1,0 +1,15 @@
+E:\Csharp\Functions\CallByReference\bin\Debug\net6.0\CallByReference.exe
+E:\Csharp\Functions\CallByReference\bin\Debug\net6.0\CallByReference.deps.json
+E:\Csharp\Functions\CallByReference\bin\Debug\net6.0\CallByReference.runtimeconfig.json
+E:\Csharp\Functions\CallByReference\bin\Debug\net6.0\CallByReference.dll
+E:\Csharp\Functions\CallByReference\bin\Debug\net6.0\CallByReference.pdb
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\CallByReference.csproj.AssemblyReference.cache
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\CallByReference.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\CallByReference.AssemblyInfoInputs.cache
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\CallByReference.AssemblyInfo.cs
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\CallByReference.csproj.CoreCompileInputs.cache
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\CallByReference.dll
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\refint\CallByReference.dll
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\CallByReference.pdb
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\CallByReference.genruntimeconfig.cache
+E:\Csharp\Functions\CallByReference\obj\Debug\net6.0\ref\CallByReference.dll

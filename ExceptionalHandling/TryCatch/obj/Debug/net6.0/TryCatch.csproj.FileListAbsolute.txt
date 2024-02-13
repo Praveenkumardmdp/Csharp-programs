@@ -1,0 +1,15 @@
+E:\Csharp\ExceptionalHandling\TryCatch\bin\Debug\net6.0\TryCatch.exe
+E:\Csharp\ExceptionalHandling\TryCatch\bin\Debug\net6.0\TryCatch.deps.json
+E:\Csharp\ExceptionalHandling\TryCatch\bin\Debug\net6.0\TryCatch.runtimeconfig.json
+E:\Csharp\ExceptionalHandling\TryCatch\bin\Debug\net6.0\TryCatch.dll
+E:\Csharp\ExceptionalHandling\TryCatch\bin\Debug\net6.0\TryCatch.pdb
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\TryCatch.csproj.AssemblyReference.cache
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfoInputs.cache
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfo.cs
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\TryCatch.csproj.CoreCompileInputs.cache
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\TryCatch.dll
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\refint\TryCatch.dll
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\TryCatch.pdb
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\TryCatch.genruntimeconfig.cache
+E:\Csharp\ExceptionalHandling\TryCatch\obj\Debug\net6.0\ref\TryCatch.dll

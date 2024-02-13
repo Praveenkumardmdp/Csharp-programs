@@ -1,0 +1,15 @@
+E:\Csharp\Functions\OutParameters\bin\Debug\net6.0\OutParameters.exe
+E:\Csharp\Functions\OutParameters\bin\Debug\net6.0\OutParameters.deps.json
+E:\Csharp\Functions\OutParameters\bin\Debug\net6.0\OutParameters.runtimeconfig.json
+E:\Csharp\Functions\OutParameters\bin\Debug\net6.0\OutParameters.dll
+E:\Csharp\Functions\OutParameters\bin\Debug\net6.0\OutParameters.pdb
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\OutParameters.csproj.AssemblyReference.cache
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\OutParameters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\OutParameters.AssemblyInfoInputs.cache
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\OutParameters.AssemblyInfo.cs
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\OutParameters.csproj.CoreCompileInputs.cache
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\OutParameters.dll
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\refint\OutParameters.dll
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\OutParameters.pdb
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\OutParameters.genruntimeconfig.cache
+E:\Csharp\Functions\OutParameters\obj\Debug\net6.0\ref\OutParameters.dll

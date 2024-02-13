@@ -1,0 +1,15 @@
+E:\Csharp\Functions\CallByvalue\bin\Debug\net6.0\CallByvalue.exe
+E:\Csharp\Functions\CallByvalue\bin\Debug\net6.0\CallByvalue.deps.json
+E:\Csharp\Functions\CallByvalue\bin\Debug\net6.0\CallByvalue.runtimeconfig.json
+E:\Csharp\Functions\CallByvalue\bin\Debug\net6.0\CallByvalue.dll
+E:\Csharp\Functions\CallByvalue\bin\Debug\net6.0\CallByvalue.pdb
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\CallByvalue.csproj.AssemblyReference.cache
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\CallByvalue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\CallByvalue.AssemblyInfoInputs.cache
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\CallByvalue.AssemblyInfo.cs
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\CallByvalue.csproj.CoreCompileInputs.cache
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\CallByvalue.dll
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\refint\CallByvalue.dll
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\CallByvalue.pdb
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\CallByvalue.genruntimeconfig.cache
+E:\Csharp\Functions\CallByvalue\obj\Debug\net6.0\ref\CallByvalue.dll

@@ -1,0 +1,15 @@
+E:\Csharp\BaseKeyword\bin\Debug\net6.0\BaseKeyword.exe
+E:\Csharp\BaseKeyword\bin\Debug\net6.0\BaseKeyword.deps.json
+E:\Csharp\BaseKeyword\bin\Debug\net6.0\BaseKeyword.runtimeconfig.json
+E:\Csharp\BaseKeyword\bin\Debug\net6.0\BaseKeyword.dll
+E:\Csharp\BaseKeyword\bin\Debug\net6.0\BaseKeyword.pdb
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\BaseKeyword.csproj.AssemblyReference.cache
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\BaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\BaseKeyword.AssemblyInfoInputs.cache
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\BaseKeyword.AssemblyInfo.cs
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\BaseKeyword.csproj.CoreCompileInputs.cache
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\BaseKeyword.dll
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\refint\BaseKeyword.dll
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\BaseKeyword.pdb
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\BaseKeyword.genruntimeconfig.cache
+E:\Csharp\BaseKeyword\obj\Debug\net6.0\ref\BaseKeyword.dll

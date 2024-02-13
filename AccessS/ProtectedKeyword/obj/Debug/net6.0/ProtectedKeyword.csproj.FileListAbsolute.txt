@@ -1,0 +1,15 @@
+E:\Csharp\AccessS\ProtectedKeyword\bin\Debug\net6.0\ProtectedKeyword.exe
+E:\Csharp\AccessS\ProtectedKeyword\bin\Debug\net6.0\ProtectedKeyword.deps.json
+E:\Csharp\AccessS\ProtectedKeyword\bin\Debug\net6.0\ProtectedKeyword.runtimeconfig.json
+E:\Csharp\AccessS\ProtectedKeyword\bin\Debug\net6.0\ProtectedKeyword.dll
+E:\Csharp\AccessS\ProtectedKeyword\bin\Debug\net6.0\ProtectedKeyword.pdb
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\ProtectedKeyword.csproj.AssemblyReference.cache
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\ProtectedKeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\ProtectedKeyword.AssemblyInfoInputs.cache
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\ProtectedKeyword.AssemblyInfo.cs
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\ProtectedKeyword.csproj.CoreCompileInputs.cache
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\ProtectedKeyword.dll
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\refint\ProtectedKeyword.dll
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\ProtectedKeyword.pdb
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\ProtectedKeyword.genruntimeconfig.cache
+E:\Csharp\AccessS\ProtectedKeyword\obj\Debug\net6.0\ref\ProtectedKeyword.dll

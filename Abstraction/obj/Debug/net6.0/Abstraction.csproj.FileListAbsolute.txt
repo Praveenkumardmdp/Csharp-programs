@@ -1,0 +1,14 @@
+E:\Csharp\Abstraction\bin\Debug\net6.0\Abstraction.exe
+E:\Csharp\Abstraction\bin\Debug\net6.0\Abstraction.deps.json
+E:\Csharp\Abstraction\bin\Debug\net6.0\Abstraction.runtimeconfig.json
+E:\Csharp\Abstraction\bin\Debug\net6.0\Abstraction.dll
+E:\Csharp\Abstraction\bin\Debug\net6.0\Abstraction.pdb
+E:\Csharp\Abstraction\obj\Debug\net6.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfoInputs.cache
+E:\Csharp\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfo.cs
+E:\Csharp\Abstraction\obj\Debug\net6.0\Abstraction.csproj.CoreCompileInputs.cache
+E:\Csharp\Abstraction\obj\Debug\net6.0\Abstraction.dll
+E:\Csharp\Abstraction\obj\Debug\net6.0\refint\Abstraction.dll
+E:\Csharp\Abstraction\obj\Debug\net6.0\Abstraction.pdb
+E:\Csharp\Abstraction\obj\Debug\net6.0\Abstraction.genruntimeconfig.cache
+E:\Csharp\Abstraction\obj\Debug\net6.0\ref\Abstraction.dll

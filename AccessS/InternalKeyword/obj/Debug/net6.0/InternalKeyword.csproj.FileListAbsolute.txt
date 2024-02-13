@@ -1,0 +1,15 @@
+E:\Csharp\AccessS\InternalKeyword\bin\Debug\net6.0\InternalKeyword.exe
+E:\Csharp\AccessS\InternalKeyword\bin\Debug\net6.0\InternalKeyword.deps.json
+E:\Csharp\AccessS\InternalKeyword\bin\Debug\net6.0\InternalKeyword.runtimeconfig.json
+E:\Csharp\AccessS\InternalKeyword\bin\Debug\net6.0\InternalKeyword.dll
+E:\Csharp\AccessS\InternalKeyword\bin\Debug\net6.0\InternalKeyword.pdb
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\InternalKeyword.csproj.AssemblyReference.cache
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\InternalKeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\InternalKeyword.AssemblyInfoInputs.cache
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\InternalKeyword.AssemblyInfo.cs
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\InternalKeyword.csproj.CoreCompileInputs.cache
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\InternalKeyword.dll
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\refint\InternalKeyword.dll
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\InternalKeyword.pdb
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\InternalKeyword.genruntimeconfig.cache
+E:\Csharp\AccessS\InternalKeyword\obj\Debug\net6.0\ref\InternalKeyword.dll

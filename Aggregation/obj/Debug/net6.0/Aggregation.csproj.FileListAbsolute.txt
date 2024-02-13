@@ -1,0 +1,15 @@
+E:\Csharp\Aggregation\bin\Debug\net6.0\Aggregation.exe
+E:\Csharp\Aggregation\bin\Debug\net6.0\Aggregation.deps.json
+E:\Csharp\Aggregation\bin\Debug\net6.0\Aggregation.runtimeconfig.json
+E:\Csharp\Aggregation\bin\Debug\net6.0\Aggregation.dll
+E:\Csharp\Aggregation\bin\Debug\net6.0\Aggregation.pdb
+E:\Csharp\Aggregation\obj\Debug\net6.0\Aggregation.csproj.AssemblyReference.cache
+E:\Csharp\Aggregation\obj\Debug\net6.0\Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Aggregation\obj\Debug\net6.0\Aggregation.AssemblyInfoInputs.cache
+E:\Csharp\Aggregation\obj\Debug\net6.0\Aggregation.AssemblyInfo.cs
+E:\Csharp\Aggregation\obj\Debug\net6.0\Aggregation.csproj.CoreCompileInputs.cache
+E:\Csharp\Aggregation\obj\Debug\net6.0\Aggregation.dll
+E:\Csharp\Aggregation\obj\Debug\net6.0\refint\Aggregation.dll
+E:\Csharp\Aggregation\obj\Debug\net6.0\Aggregation.pdb
+E:\Csharp\Aggregation\obj\Debug\net6.0\Aggregation.genruntimeconfig.cache
+E:\Csharp\Aggregation\obj\Debug\net6.0\ref\Aggregation.dll

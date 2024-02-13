@@ -1,0 +1,15 @@
+E:\Csharp\Polymorphism\MethodOverriding\bin\Debug\net6.0\MethodOverriding.exe
+E:\Csharp\Polymorphism\MethodOverriding\bin\Debug\net6.0\MethodOverriding.deps.json
+E:\Csharp\Polymorphism\MethodOverriding\bin\Debug\net6.0\MethodOverriding.runtimeconfig.json
+E:\Csharp\Polymorphism\MethodOverriding\bin\Debug\net6.0\MethodOverriding.dll
+E:\Csharp\Polymorphism\MethodOverriding\bin\Debug\net6.0\MethodOverriding.pdb
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\MethodOverriding.csproj.AssemblyReference.cache
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\MethodOverriding.AssemblyInfoInputs.cache
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\MethodOverriding.AssemblyInfo.cs
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\MethodOverriding.csproj.CoreCompileInputs.cache
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\MethodOverriding.dll
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\refint\MethodOverriding.dll
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\MethodOverriding.pdb
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\MethodOverriding.genruntimeconfig.cache
+E:\Csharp\Polymorphism\MethodOverriding\obj\Debug\net6.0\ref\MethodOverriding.dll

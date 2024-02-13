@@ -1,0 +1,15 @@
+E:\Csharp\HierachicialInheritance\bin\Debug\net6.0\HierachicialInheritance.exe
+E:\Csharp\HierachicialInheritance\bin\Debug\net6.0\HierachicialInheritance.deps.json
+E:\Csharp\HierachicialInheritance\bin\Debug\net6.0\HierachicialInheritance.runtimeconfig.json
+E:\Csharp\HierachicialInheritance\bin\Debug\net6.0\HierachicialInheritance.dll
+E:\Csharp\HierachicialInheritance\bin\Debug\net6.0\HierachicialInheritance.pdb
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\HierachicialInheritance.csproj.AssemblyReference.cache
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\HierachicialInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\HierachicialInheritance.AssemblyInfoInputs.cache
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\HierachicialInheritance.AssemblyInfo.cs
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\HierachicialInheritance.csproj.CoreCompileInputs.cache
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\HierachicialInheritance.dll
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\refint\HierachicialInheritance.dll
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\HierachicialInheritance.pdb
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\HierachicialInheritance.genruntimeconfig.cache
+E:\Csharp\HierachicialInheritance\obj\Debug\net6.0\ref\HierachicialInheritance.dll

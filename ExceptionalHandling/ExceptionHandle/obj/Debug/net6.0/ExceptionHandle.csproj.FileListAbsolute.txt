@@ -1,0 +1,14 @@
+E:\Csharp\ExceptionalHandling\ExceptionHandle\bin\Debug\net6.0\ExceptionHandle.exe
+E:\Csharp\ExceptionalHandling\ExceptionHandle\bin\Debug\net6.0\ExceptionHandle.deps.json
+E:\Csharp\ExceptionalHandling\ExceptionHandle\bin\Debug\net6.0\ExceptionHandle.runtimeconfig.json
+E:\Csharp\ExceptionalHandling\ExceptionHandle\bin\Debug\net6.0\ExceptionHandle.dll
+E:\Csharp\ExceptionalHandling\ExceptionHandle\bin\Debug\net6.0\ExceptionHandle.pdb
+E:\Csharp\ExceptionalHandling\ExceptionHandle\obj\Debug\net6.0\ExceptionHandle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\ExceptionalHandling\ExceptionHandle\obj\Debug\net6.0\ExceptionHandle.AssemblyInfoInputs.cache
+E:\Csharp\ExceptionalHandling\ExceptionHandle\obj\Debug\net6.0\ExceptionHandle.AssemblyInfo.cs
+E:\Csharp\ExceptionalHandling\ExceptionHandle\obj\Debug\net6.0\ExceptionHandle.csproj.CoreCompileInputs.cache
+E:\Csharp\ExceptionalHandling\ExceptionHandle\obj\Debug\net6.0\ExceptionHandle.dll
+E:\Csharp\ExceptionalHandling\ExceptionHandle\obj\Debug\net6.0\refint\ExceptionHandle.dll
+E:\Csharp\ExceptionalHandling\ExceptionHandle\obj\Debug\net6.0\ExceptionHandle.pdb
+E:\Csharp\ExceptionalHandling\ExceptionHandle\obj\Debug\net6.0\ExceptionHandle.genruntimeconfig.cache
+E:\Csharp\ExceptionalHandling\ExceptionHandle\obj\Debug\net6.0\ref\ExceptionHandle.dll

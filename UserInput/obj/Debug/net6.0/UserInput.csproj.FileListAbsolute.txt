@@ -1,0 +1,15 @@
+E:\Csharp\UserInput\bin\Debug\net6.0\UserInput.exe
+E:\Csharp\UserInput\bin\Debug\net6.0\UserInput.deps.json
+E:\Csharp\UserInput\bin\Debug\net6.0\UserInput.runtimeconfig.json
+E:\Csharp\UserInput\bin\Debug\net6.0\UserInput.dll
+E:\Csharp\UserInput\bin\Debug\net6.0\UserInput.pdb
+E:\Csharp\UserInput\obj\Debug\net6.0\UserInput.csproj.AssemblyReference.cache
+E:\Csharp\UserInput\obj\Debug\net6.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfoInputs.cache
+E:\Csharp\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfo.cs
+E:\Csharp\UserInput\obj\Debug\net6.0\UserInput.csproj.CoreCompileInputs.cache
+E:\Csharp\UserInput\obj\Debug\net6.0\UserInput.dll
+E:\Csharp\UserInput\obj\Debug\net6.0\refint\UserInput.dll
+E:\Csharp\UserInput\obj\Debug\net6.0\UserInput.pdb
+E:\Csharp\UserInput\obj\Debug\net6.0\UserInput.genruntimeconfig.cache
+E:\Csharp\UserInput\obj\Debug\net6.0\ref\UserInput.dll

@@ -1,0 +1,15 @@
+E:\Csharp\AccessS\ProtectedInternal\bin\Debug\net6.0\ProtectedInternal.exe
+E:\Csharp\AccessS\ProtectedInternal\bin\Debug\net6.0\ProtectedInternal.deps.json
+E:\Csharp\AccessS\ProtectedInternal\bin\Debug\net6.0\ProtectedInternal.runtimeconfig.json
+E:\Csharp\AccessS\ProtectedInternal\bin\Debug\net6.0\ProtectedInternal.dll
+E:\Csharp\AccessS\ProtectedInternal\bin\Debug\net6.0\ProtectedInternal.pdb
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\ProtectedInternal.csproj.AssemblyReference.cache
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\ProtectedInternal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\ProtectedInternal.AssemblyInfoInputs.cache
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\ProtectedInternal.AssemblyInfo.cs
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\ProtectedInternal.csproj.CoreCompileInputs.cache
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\ProtectedInternal.dll
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\refint\ProtectedInternal.dll
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\ProtectedInternal.pdb
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\ProtectedInternal.genruntimeconfig.cache
+E:\Csharp\AccessS\ProtectedInternal\obj\Debug\net6.0\ref\ProtectedInternal.dll

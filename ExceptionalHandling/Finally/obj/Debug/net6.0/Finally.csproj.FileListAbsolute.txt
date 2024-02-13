@@ -1,0 +1,15 @@
+E:\Csharp\ExceptionalHandling\Finally\bin\Debug\net6.0\Finally.exe
+E:\Csharp\ExceptionalHandling\Finally\bin\Debug\net6.0\Finally.deps.json
+E:\Csharp\ExceptionalHandling\Finally\bin\Debug\net6.0\Finally.runtimeconfig.json
+E:\Csharp\ExceptionalHandling\Finally\bin\Debug\net6.0\Finally.dll
+E:\Csharp\ExceptionalHandling\Finally\bin\Debug\net6.0\Finally.pdb
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\Finally.csproj.AssemblyReference.cache
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\Finally.AssemblyInfoInputs.cache
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\Finally.AssemblyInfo.cs
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\Finally.csproj.CoreCompileInputs.cache
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\Finally.dll
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\refint\Finally.dll
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\Finally.pdb
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\Finally.genruntimeconfig.cache
+E:\Csharp\ExceptionalHandling\Finally\obj\Debug\net6.0\ref\Finally.dll

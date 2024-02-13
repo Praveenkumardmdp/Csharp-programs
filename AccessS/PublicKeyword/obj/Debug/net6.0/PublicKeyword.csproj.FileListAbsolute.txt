@@ -1,0 +1,15 @@
+E:\Csharp\AccessS\PublicKeyword\bin\Debug\net6.0\PublicKeyword.exe
+E:\Csharp\AccessS\PublicKeyword\bin\Debug\net6.0\PublicKeyword.deps.json
+E:\Csharp\AccessS\PublicKeyword\bin\Debug\net6.0\PublicKeyword.runtimeconfig.json
+E:\Csharp\AccessS\PublicKeyword\bin\Debug\net6.0\PublicKeyword.dll
+E:\Csharp\AccessS\PublicKeyword\bin\Debug\net6.0\PublicKeyword.pdb
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\PublicKeyword.csproj.AssemblyReference.cache
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\PublicKeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\PublicKeyword.AssemblyInfoInputs.cache
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\PublicKeyword.AssemblyInfo.cs
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\PublicKeyword.csproj.CoreCompileInputs.cache
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\PublicKeyword.dll
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\refint\PublicKeyword.dll
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\PublicKeyword.pdb
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\PublicKeyword.genruntimeconfig.cache
+E:\Csharp\AccessS\PublicKeyword\obj\Debug\net6.0\ref\PublicKeyword.dll

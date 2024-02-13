@@ -1,0 +1,15 @@
+E:\Csharp\Static\StaticClass\bin\Debug\net6.0\StaticClass.exe
+E:\Csharp\Static\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+E:\Csharp\Static\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+E:\Csharp\Static\StaticClass\bin\Debug\net6.0\StaticClass.dll
+E:\Csharp\Static\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\StaticClass.csproj.AssemblyReference.cache
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\StaticClass.dll
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+E:\Csharp\Static\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll

@@ -1,0 +1,15 @@
+E:\Csharp\ObjectandClass\bin\Debug\net6.0\ObjectandClass.exe
+E:\Csharp\ObjectandClass\bin\Debug\net6.0\ObjectandClass.deps.json
+E:\Csharp\ObjectandClass\bin\Debug\net6.0\ObjectandClass.runtimeconfig.json
+E:\Csharp\ObjectandClass\bin\Debug\net6.0\ObjectandClass.dll
+E:\Csharp\ObjectandClass\bin\Debug\net6.0\ObjectandClass.pdb
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\ObjectandClass.csproj.AssemblyReference.cache
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\ObjectandClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\ObjectandClass.AssemblyInfoInputs.cache
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\ObjectandClass.AssemblyInfo.cs
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\ObjectandClass.csproj.CoreCompileInputs.cache
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\ObjectandClass.dll
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\refint\ObjectandClass.dll
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\ObjectandClass.pdb
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\ObjectandClass.genruntimeconfig.cache
+E:\Csharp\ObjectandClass\obj\Debug\net6.0\ref\ObjectandClass.dll

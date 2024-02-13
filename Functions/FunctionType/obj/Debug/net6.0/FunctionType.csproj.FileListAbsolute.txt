@@ -1,0 +1,15 @@
+E:\Csharp\Functions\FunctionType\bin\Debug\net6.0\FunctionType.exe
+E:\Csharp\Functions\FunctionType\bin\Debug\net6.0\FunctionType.deps.json
+E:\Csharp\Functions\FunctionType\bin\Debug\net6.0\FunctionType.runtimeconfig.json
+E:\Csharp\Functions\FunctionType\bin\Debug\net6.0\FunctionType.dll
+E:\Csharp\Functions\FunctionType\bin\Debug\net6.0\FunctionType.pdb
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\FunctionType.csproj.AssemblyReference.cache
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\FunctionType.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\FunctionType.AssemblyInfoInputs.cache
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\FunctionType.AssemblyInfo.cs
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\FunctionType.csproj.CoreCompileInputs.cache
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\FunctionType.dll
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\refint\FunctionType.dll
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\FunctionType.pdb
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\FunctionType.genruntimeconfig.cache
+E:\Csharp\Functions\FunctionType\obj\Debug\net6.0\ref\FunctionType.dll

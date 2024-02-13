@@ -1,0 +1,15 @@
+E:\Csharp\Static\StaticField\bin\Debug\net6.0\StaticField.exe
+E:\Csharp\Static\StaticField\bin\Debug\net6.0\StaticField.deps.json
+E:\Csharp\Static\StaticField\bin\Debug\net6.0\StaticField.runtimeconfig.json
+E:\Csharp\Static\StaticField\bin\Debug\net6.0\StaticField.dll
+E:\Csharp\Static\StaticField\bin\Debug\net6.0\StaticField.pdb
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\StaticField.csproj.AssemblyReference.cache
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\StaticField.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\StaticField.AssemblyInfoInputs.cache
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\StaticField.AssemblyInfo.cs
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\StaticField.csproj.CoreCompileInputs.cache
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\StaticField.dll
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\refint\StaticField.dll
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\StaticField.pdb
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\StaticField.genruntimeconfig.cache
+E:\Csharp\Static\StaticField\obj\Debug\net6.0\ref\StaticField.dll

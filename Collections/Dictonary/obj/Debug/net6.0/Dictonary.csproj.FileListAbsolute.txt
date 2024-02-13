@@ -1,0 +1,15 @@
+E:\Csharp\Collections\Dictonary\bin\Debug\net6.0\Dictonary.exe
+E:\Csharp\Collections\Dictonary\bin\Debug\net6.0\Dictonary.deps.json
+E:\Csharp\Collections\Dictonary\bin\Debug\net6.0\Dictonary.runtimeconfig.json
+E:\Csharp\Collections\Dictonary\bin\Debug\net6.0\Dictonary.dll
+E:\Csharp\Collections\Dictonary\bin\Debug\net6.0\Dictonary.pdb
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\Dictonary.csproj.AssemblyReference.cache
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\Dictonary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\Dictonary.AssemblyInfoInputs.cache
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\Dictonary.AssemblyInfo.cs
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\Dictonary.csproj.CoreCompileInputs.cache
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\Dictonary.dll
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\refint\Dictonary.dll
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\Dictonary.pdb
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\Dictonary.genruntimeconfig.cache
+E:\Csharp\Collections\Dictonary\obj\Debug\net6.0\ref\Dictonary.dll

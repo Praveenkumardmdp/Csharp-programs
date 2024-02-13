@@ -1,0 +1,15 @@
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\bin\Debug\net6.0\InternalAccessSpecifiers.exe
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\bin\Debug\net6.0\InternalAccessSpecifiers.deps.json
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\bin\Debug\net6.0\InternalAccessSpecifiers.runtimeconfig.json
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\bin\Debug\net6.0\InternalAccessSpecifiers.dll
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\bin\Debug\net6.0\InternalAccessSpecifiers.pdb
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\InternalAccessSpecifiers.csproj.AssemblyReference.cache
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\InternalAccessSpecifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\InternalAccessSpecifiers.AssemblyInfoInputs.cache
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\InternalAccessSpecifiers.AssemblyInfo.cs
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\InternalAccessSpecifiers.csproj.CoreCompileInputs.cache
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\InternalAccessSpecifiers.dll
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\refint\InternalAccessSpecifiers.dll
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\InternalAccessSpecifiers.pdb
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\InternalAccessSpecifiers.genruntimeconfig.cache
+E:\Csharp\AccessSpecifiers\InternalAccessSpecifiers\obj\Debug\net6.0\ref\InternalAccessSpecifiers.dll

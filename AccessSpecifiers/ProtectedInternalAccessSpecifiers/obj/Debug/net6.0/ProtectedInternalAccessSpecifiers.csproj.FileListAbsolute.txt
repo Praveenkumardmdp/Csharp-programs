@@ -1,0 +1,15 @@
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\bin\Debug\net6.0\ProtectedInternalAccessSpecifiers.exe
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\bin\Debug\net6.0\ProtectedInternalAccessSpecifiers.deps.json
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\bin\Debug\net6.0\ProtectedInternalAccessSpecifiers.runtimeconfig.json
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\bin\Debug\net6.0\ProtectedInternalAccessSpecifiers.dll
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\bin\Debug\net6.0\ProtectedInternalAccessSpecifiers.pdb
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\ProtectedInternalAccessSpecifiers.csproj.AssemblyReference.cache
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\ProtectedInternalAccessSpecifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\ProtectedInternalAccessSpecifiers.AssemblyInfoInputs.cache
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\ProtectedInternalAccessSpecifiers.AssemblyInfo.cs
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\ProtectedInternalAccessSpecifiers.csproj.CoreCompileInputs.cache
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\ProtectedInternalAccessSpecifiers.dll
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\refint\ProtectedInternalAccessSpecifiers.dll
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\ProtectedInternalAccessSpecifiers.pdb
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\ProtectedInternalAccessSpecifiers.genruntimeconfig.cache
+E:\Csharp\AccessSpecifiers\ProtectedInternalAccessSpecifiers\obj\Debug\net6.0\ref\ProtectedInternalAccessSpecifiers.dll

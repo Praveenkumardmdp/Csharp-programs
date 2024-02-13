@@ -1,0 +1,15 @@
+E:\Csharp\PublicAccessSpecifiers\bin\Debug\net6.0\PublicAccessSpecifiers.exe
+E:\Csharp\PublicAccessSpecifiers\bin\Debug\net6.0\PublicAccessSpecifiers.deps.json
+E:\Csharp\PublicAccessSpecifiers\bin\Debug\net6.0\PublicAccessSpecifiers.runtimeconfig.json
+E:\Csharp\PublicAccessSpecifiers\bin\Debug\net6.0\PublicAccessSpecifiers.dll
+E:\Csharp\PublicAccessSpecifiers\bin\Debug\net6.0\PublicAccessSpecifiers.pdb
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\PublicAccessSpecifiers.csproj.AssemblyReference.cache
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\PublicAccessSpecifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\PublicAccessSpecifiers.AssemblyInfoInputs.cache
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\PublicAccessSpecifiers.AssemblyInfo.cs
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\PublicAccessSpecifiers.csproj.CoreCompileInputs.cache
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\PublicAccessSpecifiers.dll
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\refint\PublicAccessSpecifiers.dll
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\PublicAccessSpecifiers.pdb
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\PublicAccessSpecifiers.genruntimeconfig.cache
+E:\Csharp\PublicAccessSpecifiers\obj\Debug\net6.0\ref\PublicAccessSpecifiers.dll

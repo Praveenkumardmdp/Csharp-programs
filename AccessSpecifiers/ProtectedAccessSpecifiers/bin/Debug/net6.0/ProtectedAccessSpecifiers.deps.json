@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProtectedAccessSpecifiers/1.0.0": {
+        "runtime": {
+          "ProtectedAccessSpecifiers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProtectedAccessSpecifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

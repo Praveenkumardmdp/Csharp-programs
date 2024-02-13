@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vUneR54nnydhnb+r6up8rEMvu9YfmdCpWNzbAt5VTgKVgrhHdGlS7kacXl6kTOc6A8qi6lKtE+gJeQLmIcxWqQ==",
+  "success": true,
+  "projectFilePath": "E:\\Csharp\\Abstraction\\Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devi_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\devi_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\devi_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\devi_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

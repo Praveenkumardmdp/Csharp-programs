@@ -1,0 +1,15 @@
+E:\Csharp\AccessS\PrivateKeyword\bin\Debug\net6.0\PrivateKeyword.exe
+E:\Csharp\AccessS\PrivateKeyword\bin\Debug\net6.0\PrivateKeyword.deps.json
+E:\Csharp\AccessS\PrivateKeyword\bin\Debug\net6.0\PrivateKeyword.runtimeconfig.json
+E:\Csharp\AccessS\PrivateKeyword\bin\Debug\net6.0\PrivateKeyword.dll
+E:\Csharp\AccessS\PrivateKeyword\bin\Debug\net6.0\PrivateKeyword.pdb
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\PrivateKeyword.csproj.AssemblyReference.cache
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\PrivateKeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\PrivateKeyword.AssemblyInfoInputs.cache
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\PrivateKeyword.AssemblyInfo.cs
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\PrivateKeyword.csproj.CoreCompileInputs.cache
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\PrivateKeyword.dll
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\refint\PrivateKeyword.dll
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\PrivateKeyword.pdb
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\PrivateKeyword.genruntimeconfig.cache
+E:\Csharp\AccessS\PrivateKeyword\obj\Debug\net6.0\ref\PrivateKeyword.dll
